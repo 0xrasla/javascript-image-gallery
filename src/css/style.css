@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+button {
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px #000;
+    cursor: pointer;
+    font-family: 'Bree Serif', serif;
+}
+
+button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+img {
+    object-fit: contain;
+    max-width: 300px;
+}
+
+
+input {
+    font-family: 'Bree Serif', serif;
+    padding: 10px;
+}
+
+#gallery {
+    width:80%;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
