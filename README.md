@@ -1,3 +1,3 @@
 # ImageGallery
 
-## yeah! that's it
+## yeah! that's it. Sunday!
